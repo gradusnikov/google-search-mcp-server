@@ -1,0 +1,20 @@
+# Configuration file with API keys
+config.json
+CLAUDE.md
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Eclipse project files
+.project
+.pydevproject
+.settings/
